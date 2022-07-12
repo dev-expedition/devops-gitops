@@ -1,1 +1,1 @@
-# devops-gitops
+# GitOps Repository
